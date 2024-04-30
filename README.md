@@ -4,5 +4,5 @@
 
 * Setup: We run our python notebook for this project in google colab, CPU environment with python 3.10 version.
 
-*How to run this project?
-Just click "RUN ALL" button to see the results
+* How to run this project?
+Just click "RUN ALL" button to see the results.
